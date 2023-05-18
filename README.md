@@ -1,8 +1,7 @@
 ### Eu sou o Lucas Barbosa
 
-- 🔭 Atualmente, trabalho com desenvolvimento web envolvendo Angular e Laravel.
-- 🌱 Estou cursando Tecnologo em Análise e Desenvolvimento de Sistemas. Passei por Algoritmos (Linguagem C), HTML, CSS, JavaScript, PHP e Orientação à Objetos com Java
-- 👯 Estou aberto à colaborar!
+- 🔭 Atualmente, trabalho com Desenvolvimento Web FullStackenvolvendo Angular e Laravel.
+- 🌱 Estou cursando Tecnologo em Análise e Desenvolvimento de Sistemas. Passei por Algoritmos com Linguagem C, Estrutura de Dados com Java, Design para Web com HTML e CSS, Aplicações web com JavaScript e PHP, Orientação à Objetos com Java, dentre outras disciplinas. No final de 2022, produzi dois projetos, os quais incluiram tanto implementação prática quanto documentação, de sistemas web com os frameworks Laravel e Angular. Os projetos faziam operações CRUD no SGBDR MySQL, autenticavam o usuário e sua senha era criptografada.
 - 📫 Contato: lucasbarbosa777@gmail.com
 
 <div align="center">
